@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Describe your project
+Meu projeto base para usar nos proximos proejtos
 
 ## :sparkles: Features
 
@@ -58,8 +58,6 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -72,7 +70,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{BrunoIps}}/base_project
+$ git clone https://github.com/BrunoIps/base_project
 
 # Access
 $ cd base_project
@@ -83,7 +81,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+
 ```
 
 ## :memo: License
