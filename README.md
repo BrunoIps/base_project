@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Meu projeto base para usar nos proximos proejtos
+Meu projeto base de React Native, para ser usado nos próximos projetos iniciados
 
 ## :sparkles: Features
 
