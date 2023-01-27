@@ -34,8 +34,6 @@ const Login = () => {
     }
   };
 
-  console.log(err, errorPassword, validatePassword(form.password));
-
   return (
     <S.Container>
       <HeaderComponent back />
